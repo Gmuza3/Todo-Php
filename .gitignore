@@ -1,0 +1,40 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Composer dependencies (if using composer)
+vendor/
+
+# Environment config
+.env
+
+# Logs and caches
+*.log
+logs/
+cache/
+tmp/
+
+# PHPUnit
+phpunit.xml
+phpunit.xml.dist
+coverage/
+
+# Uploads (optional, if you're storing user files)
+uploads/
+storage/
+
+# Node (if you add npm stuff for frontend)
+node_modules/
+dist/
+build/
+
+# Misc
+*.bak
+*.swp
+*.tmp
