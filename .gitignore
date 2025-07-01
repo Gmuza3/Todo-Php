@@ -38,3 +38,11 @@ build/
 *.bak
 *.swp
 *.tmp
+
+# Env variables
+.env
+
+# DB
+*.sql
+*.dump
+db/to-do.sql
